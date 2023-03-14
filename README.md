@@ -1,6 +1,6 @@
-# Project Title
+# Photo finder tool
 
-Final project for the Building AI course: face-recognition-photos-finder
+Building AI course Final Project 
 
 ## Summary
 
