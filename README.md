@@ -16,18 +16,19 @@ Well, the purpose of this project is to automate such task so that by training a
 
 ## How is it used?
 
-In order to train the model, we store in a folder as many pictures as we have avilable that have the target person only (The more the merrier).
-The model, by using a face recognition algorithm,  will use the parameters extracted from those photos and compare them with each photo available in the photo storage system.
+In order to train the model, we store in a folder a few pictures of the target person only (The more the merrier).
+By using a face recognition algorithm, themodel will use the parameters extracted from the training photos and compare them with each photo in the photo storage system.
 
-Everytime the model finds a match it will copy and store the mathching photo in a separate folder so that you end up will all the matching photos of the target person classified in a separate folder.
+Everytime the model finds a match it will copy and store the mathching photo in a separate folder so that you end up with all the matching photos of the target person classified in a separate folder.
 
 The folder structure is as follows:
 ./
 scripts.py
 /input/
+/database/
 /output/
 
-
+#to be continued ##################
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 Images will make your README look nice!
