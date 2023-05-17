@@ -28,7 +28,8 @@ scripts.py
 /database/
 /output/
 
-#to be continued ##################
+# (update and code upload pending)
+
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 Images will make your README look nice!
